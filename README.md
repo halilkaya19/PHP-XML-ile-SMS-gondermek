@@ -2,6 +2,11 @@
 
 Posta güvercini firmasının sunduğu api üzerinden XML ile SMS göndermek 
 
+En :
+SENDING SMS WITH PHP & XML SERVICE
+
+
+
 Kullanımı :
 -----------
 
